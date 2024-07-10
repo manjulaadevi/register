@@ -1,0 +1,18 @@
+label{
+    text-align:left;
+}
+form{
+    text-align: left;
+    background: rgb(246, 250, 215);
+}
+h1{
+    text-align: left;
+}
+.submit{
+    padding: 10px;
+    border: salmon
+}
+body{
+    text-align: left;
+    background: rgb(228, 173, 230);
+}
